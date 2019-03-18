@@ -4,7 +4,7 @@ package question1;
  * Décrivez votre classe FahrenheitCelsius ici.
  * 
  * @author Elie DAHER
- * @version v1.0
+ * @version v1.1
  */
 public class FahrenheitCelsius {
 
@@ -13,8 +13,8 @@ public class FahrenheitCelsius {
      * @param args liste des températures en Fahrenheit a convertir en Celsius 
      */
     public static void main(String[] args) {
-        for (String s:args){
-            int fahrenheit = Integer.parseInt(s);
+        for (int i=0;i<args.length;i++){
+            int fahrenheit = Integer.parseInt(args[i]);
             float celsius = fahrenheitEnCelsius(fahrenheit);
             System.out.println(fahrenheit + "\u00B0F -> " + celsius + "\u00B0C");
         }

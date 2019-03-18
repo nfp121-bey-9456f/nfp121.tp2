@@ -1,6 +1,6 @@
 #BlueJ class context
 comment0.target=FahrenheitCelsius
-comment0.text=\r\n\ D\u00E9crivez\ votre\ classe\ FahrenheitCelsius\ ici.\r\n\ \r\n\ @author\ Elie\ DAHER\r\n\ @version\ v1.0\r\n
+comment0.text=\r\n\ D\u00E9crivez\ votre\ classe\ FahrenheitCelsius\ ici.\r\n\ \r\n\ @author\ Elie\ DAHER\r\n\ @version\ v1.1\r\n
 comment1.params=args
 comment1.target=void\ main(java.lang.String[])
 comment1.text=\r\n\ Affiche\ la\ conversion\ en\ Celsius\ d'une\ liste\ de\ valeurs\ en\ Fahrenheit\r\n\ @param\ args\ liste\ des\ temp\u00E9ratures\ en\ Fahrenheit\ a\ convertir\ en\ Celsius\ \r\n
