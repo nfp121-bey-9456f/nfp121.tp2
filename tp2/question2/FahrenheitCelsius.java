@@ -22,7 +22,7 @@ public class FahrenheitCelsius {
             }
         }
         catch(NumberFormatException nfe){
-            System.out.println("Erreur Entrée non convertible: " + nfe.getMessage());  // en cas d'erreur 
+            System.out.println("Erreur Entrée non convertible: " + nfe.getMessage());  // message affiché en cas d'erreur 
         }
 
     }
